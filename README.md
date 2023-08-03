@@ -1,6 +1,8 @@
 ## <div align="center">Hello World 👋 </div>
 
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/MTCBPDCDubai/MTCBPDCDubai/assets/70954808/5ccc9a1b-9858-4483-848a-9c6e2721e6de)
 
+### <div>Reach out to us at</div>
 
 <!--
 **MTCBPDCDubai/MTCBPDCDubai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
