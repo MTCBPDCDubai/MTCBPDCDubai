@@ -11,6 +11,8 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.linkedin.com/company/microsoft-tech-club/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/company/microsoft-tech-club/)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mtcbpdc)
+
+### <div> Our Events </div>
 <!--
 **MTCBPDCDubai/MTCBPDCDubai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
