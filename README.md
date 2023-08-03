@@ -3,7 +3,7 @@
 ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/MTCBPDCDubai/MTCBPDCDubai/assets/70954808/5ccc9a1b-9858-4483-848a-9c6e2721e6de)
 
 ### <div>Reach out to us at</div>
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mtcbpdc/)
 <!--
 **MTCBPDCDubai/MTCBPDCDubai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
