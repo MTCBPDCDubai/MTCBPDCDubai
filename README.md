@@ -1,4 +1,5 @@
-![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1)](https://github.com/MTCBPDCDubai/MTCBPDCDubai/assets/70954808/7c09f65b-fb3e-4469-88ac-e37ce896377e)
+
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (2)](https://github.com/MTCBPDCDubai/MTCBPDCDubai/assets/70954808/aaf6ae5b-9c65-4206-bbaa-67a491984ca2)
 
 
 ### <div>Reach out to us at</div>
