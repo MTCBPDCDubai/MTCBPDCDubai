@@ -1,6 +1,5 @@
-## <div align="center">Hello World 👋 </div>
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1)](https://github.com/MTCBPDCDubai/MTCBPDCDubai/assets/70954808/7c09f65b-fb3e-4469-88ac-e37ce896377e)
 
-![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/MTCBPDCDubai/MTCBPDCDubai/assets/70954808/5ccc9a1b-9858-4483-848a-9c6e2721e6de)
 
 ### <div>Reach out to us at</div>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mtcbpdc/)
