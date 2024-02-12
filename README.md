@@ -14,7 +14,8 @@
   <a href="https://www.tiktok.com/@mtcbpdc"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a> -->
 </div>
 
-### <div>Our Events </div>
+### <div>Our Workshops </div>
+
 <!--
 **MTCBPDCDubai/MTCBPDCDubai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
